@@ -570,4 +570,3 @@ df – data frame; Sample – table name ; conn – connection variable
 
 
 
-
